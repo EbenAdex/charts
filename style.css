@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:red;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  #cart {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: blue;
+  }
+  
+  #products {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: gray;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: green;
+  }
+  
